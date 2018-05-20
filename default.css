@@ -1,0 +1,15 @@
+.navbar-inverse .navbar-nav li > a {
+	color: #FFF;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.navbar-inverse .navbar-nav li > a:hover {
+	color: #696969;
+}
+
+
+
+.navbar-brand {
+	padding-top: 3px;
+}
